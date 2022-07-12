@@ -1,5 +1,5 @@
-# stage2-task
-website clone for stage 2 task 
+# FashionBlog
+website clone for fashion blog 
 # we have the 
 --index.html
 --css
